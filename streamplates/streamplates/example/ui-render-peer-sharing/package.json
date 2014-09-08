@@ -1,0 +1,21 @@
+{
+  "name": "huge-example",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "brfs": "^1.2.0",
+    "request": "^2.40.0",
+    "rtc-data-stream": "0.0.2",
+    "rtc-quickconnect": "^2.7.0",
+    "st": "^0.5.1",
+    "to-string-stream": "^0.1.0",
+    "websocket-stream": "^0.6.0",
+    "ws": "^0.4.32"
+  }
+}

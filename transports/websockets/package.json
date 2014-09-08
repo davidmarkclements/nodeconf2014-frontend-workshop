@@ -1,0 +1,19 @@
+{
+  "name": "websocket-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "random-stream": "0.0.4",
+    "st": "0.5.1",
+    "to-string-stream": "0.1.0",
+    "websocket-stream": "0.6.0",
+    "ws": "0.4.32",
+    "evt-src-stream": "1.0.0"
+  },
+  "devDependencies": {}
+}
